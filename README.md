@@ -52,7 +52,7 @@
 - **[技术相关](#技术相关-toc)**
 - **[产品相关](#产品相关-toc)**
 
-## :dart: &nbsp;有趣高效的互联网新人导航站
+## :mag: &nbsp;有趣高效的互联网新人导航站
 
 #### 技术相关 &nbsp;[<sup>[TOC]</sup>](#bookmark_tabs-目录)
 
@@ -75,7 +75,7 @@
 
 <p>
 &nbsp;&nbsp;:electron: <a href="https://weibo.com/fenng"><b>Fenng</b></a> - 「小道消息」出品人，“无码科技”创始人。<br>
-&nbsp;&nbsp;:electron: <a href="https://weibo.com/foxshuo"><b>阑夕</b></a> - 逐鹿网（www.zhulu.com）创始人。<br>
+&nbsp;&nbsp;:electron: <a href="https://weibo.com/foxshuo"><b>阑夕</b></a> - 逐鹿网创始人。<br>
 </p>
 
 ##### :black_small_square: 知乎
