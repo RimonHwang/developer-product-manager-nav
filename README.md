@@ -25,7 +25,7 @@
 
 <div align="center">
   <sub>Created by
-  <a href="https://twitter.com/Rimonhwang">Rimonhwang</a> and
+  <a href="https://rimonhwang.com/">Rimonhwang</a> and
   <a href="https://github.com/RimonHwang/developer-product-manager-nav/graphs/contributors">contributors</a>
 </div>
 
