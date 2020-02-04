@@ -54,7 +54,7 @@
 
 ## :dart: &nbsp;有趣高效的互联网新人导航站
 
-#### 技术相关 &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+#### 技术相关 &nbsp;[<sup>[TOC]</sup>](#bookmark_tabs-目录)
 
 ##### :black_small_square: 博客
 
@@ -69,7 +69,7 @@
 &nbsp;&nbsp;:electron: <a href="https://www.zhihu.com/people/excited-vczh"><b>vczh</b></a> - 专业造轮子，拉黑抢前排。gaclib.net<br>
 </p>
 
-#### 产品相关 &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+#### 产品相关 &nbsp;[<sup>[TOC]</sup>](#bookmark_tabs-目录)
 
 ##### :black_small_square: 微博
 
